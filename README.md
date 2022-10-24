@@ -9,5 +9,5 @@ Since this is more of a tool than an application, there is no graphical user int
 
 In terminal:
   1. Go into image_sonification folder in terminal (cd image_sonification)
-  2. Call python main.py (name of image file)
-  3. Output wav file (name of image file.wav) will be in image_sonification/sonifications, open output file to listen.
+  2. Call python main.py (name_of_image_file)
+  3. Output wav file (name_of_image_file.wav) will be in image_sonification/sonifications, open output file to listen.
