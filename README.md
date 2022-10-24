@@ -11,3 +11,7 @@ In terminal:
   1. Go into image_sonification folder in terminal (cd image_sonification)
   2. Call python main.py (name_of_image_file)
   3. Output wav file (name_of_image_file.wav) will be in image_sonification/sonifications, open output file to listen.
+
+Link to sample image: https://drive.google.com/file/d/1QMMRr-fPTvxJMNc-z8PNZ5LmmJxW--cj/view?usp=sharing
+
+Link to sound file sample: https://drive.google.com/file/d/1AfjuL6zS0Vg0gWqQNGCBYI8Oy0Gw2OEV/view?usp=sharing
